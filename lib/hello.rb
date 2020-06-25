@@ -8,7 +8,7 @@ if block_given?
 end
 array
 end
-else 
+else
   puts "Hey! No block was given!"
 end
 end
